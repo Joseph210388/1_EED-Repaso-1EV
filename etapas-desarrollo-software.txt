@@ -1,0 +1,7 @@
+Analisis
+Diseño
+Coding
+Pruebas
+Implementar
+Modificar
+Despliegue
